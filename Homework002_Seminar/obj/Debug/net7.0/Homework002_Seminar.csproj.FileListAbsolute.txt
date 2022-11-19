@@ -1,0 +1,15 @@
+D:\Git\Sec\Homework002_Seminar\bin\Debug\net7.0\Homework002_Seminar.exe
+D:\Git\Sec\Homework002_Seminar\bin\Debug\net7.0\Homework002_Seminar.deps.json
+D:\Git\Sec\Homework002_Seminar\bin\Debug\net7.0\Homework002_Seminar.runtimeconfig.json
+D:\Git\Sec\Homework002_Seminar\bin\Debug\net7.0\Homework002_Seminar.dll
+D:\Git\Sec\Homework002_Seminar\bin\Debug\net7.0\Homework002_Seminar.pdb
+D:\Git\Sec\Homework002_Seminar\obj\Debug\net7.0\Homework002_Seminar.csproj.AssemblyReference.cache
+D:\Git\Sec\Homework002_Seminar\obj\Debug\net7.0\Homework002_Seminar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Sec\Homework002_Seminar\obj\Debug\net7.0\Homework002_Seminar.AssemblyInfoInputs.cache
+D:\Git\Sec\Homework002_Seminar\obj\Debug\net7.0\Homework002_Seminar.AssemblyInfo.cs
+D:\Git\Sec\Homework002_Seminar\obj\Debug\net7.0\Homework002_Seminar.csproj.CoreCompileInputs.cache
+D:\Git\Sec\Homework002_Seminar\obj\Debug\net7.0\Homework002_Seminar.dll
+D:\Git\Sec\Homework002_Seminar\obj\Debug\net7.0\refint\Homework002_Seminar.dll
+D:\Git\Sec\Homework002_Seminar\obj\Debug\net7.0\Homework002_Seminar.pdb
+D:\Git\Sec\Homework002_Seminar\obj\Debug\net7.0\Homework002_Seminar.genruntimeconfig.cache
+D:\Git\Sec\Homework002_Seminar\obj\Debug\net7.0\ref\Homework002_Seminar.dll
